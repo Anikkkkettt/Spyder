@@ -1,0 +1,16 @@
+.footmain{
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem 4rem;
+
+}
+
+.bottomfoot{
+    padding-top: 1rem;
+    text-align: center;
+}
+
+.footpic{
+    background-image: url("../Images/FooterBackground.png");
+    color: white;;
+}

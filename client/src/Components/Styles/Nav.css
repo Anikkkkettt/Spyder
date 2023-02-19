@@ -1,0 +1,22 @@
+.mymainbody{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 4rem;
+}
+
+.navpart1 img{
+    height: 1rem;
+    width: 3rem;
+}
+
+.mybuttons img{
+    padding: 0 2rem;
+}
+
+.mybuttons button{
+    padding: 0 2rem;
+    background-color: blue;
+    padding: 0.5rem 1rem;
+    color: aliceblue;
+}

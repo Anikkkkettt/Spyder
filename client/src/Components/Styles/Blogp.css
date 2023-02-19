@@ -1,0 +1,77 @@
+.atwo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30rem;
+    background-image: url("../Images/blog-listing-bg.svg");
+}
+
+.atwopart2{
+    height: 25rem;
+    width: 0.1rem;
+    background-color: #E5E7EB;
+    ;
+}
+
+.atwopart1{
+    width: 70%;
+    padding-left: 3rem;
+    padding-right: 2rem;
+}
+
+.atwopart3{
+    width: 30%;
+    padding-left: 2rem;
+}
+
+.header{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    width: 20rem;
+    margin-bottom: 2rem;
+}
+
+.lorem1{
+    display: flex;
+    align-items: center;
+}
+
+.lorem1 img{
+    height: 11rem;
+    width: 15rem;
+}
+
+.atwopart3 div{
+    display: flex;
+    justify-content: space-between;
+    width: 12rem;
+    border: 0.1rem solid black;
+    margin-bottom: 1rem;
+    height: 3rem;
+    background-color: #E5E7EB;
+}
+
+.atwopart3 div p{
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    padding-left: 0.7rem;
+    padding-right: 0.5rem;
+}
+
+.tags{
+    display: flex;
+    justify-content: space-between;
+    width: 20rem;
+}
+
+.mypart{
+    padding-left: 2rem;
+}
+
+.tags p{
+    background-color: #E5E7EB;
+    border-radius: 25%;
+    width: 3.4rem;
+    height: 1.9rem;
+}
